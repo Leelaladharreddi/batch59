@@ -1,0 +1,3 @@
+yum imstall httpd -y
+systemctl start https.service
+cat /etc/httpd/httpd/httpfd.conf
